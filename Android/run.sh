@@ -1,0 +1,1 @@
+start adb install hello_vuforia.apk
